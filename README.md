@@ -4,8 +4,9 @@
 <h2> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="40" height="40" >  </h2> 
 <h1> I'm <a href="https://muhrehman.github.io/"> Rehman Coding </a>  ... ! </h1>
 
-<img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
-<img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/rehman_coding1.png">
+<p align="center">
+  <img src="rehman_coding1.png" alt="Rehman Coding" width="100%">
+</p>
 <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <h1>always passionate for learning more about tech and life..💻🎓</h1> 
 
