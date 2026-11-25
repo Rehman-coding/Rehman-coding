@@ -1,28 +1,26 @@
+<h2> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving hand"> </h2>
+<h1> I'm <a href="https://muhrehman.github.io/">Rehman Coding</a> ... ! </h1>
+<h3>Abdul Rehman | Frontend Developer (React, Next.js) | Rawalpindi, Pakistan</h3>
 
-
-
-<h2> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="40" height="40" >  </h2> 
-<h1> I'm <a href="https://muhrehman.github.io/"> Rehman Coding </a>  ... ! </h1>
-
+<img align="right" alt="Divider" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <p align="center">
-  <img src="rehman_coding1.png" alt="Rehman Coding" width="100%">
+  <img src="rehman_coding1.png" alt="Rehman Coding - Abdul Rehman, Full stack Developer from Pakistan" width="100%">
 </p>
-<img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
-<h1>always passionate for learning more about tech and life..💻🎓</h1> 
+<img align="right" alt="Divider" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 
+<h1>always passionate for learning more about tech and life..💻🎓</h1>
 
+💬 I am Abdul Rehman, known as <b>Rehman Coding</b>, a creative frontend developer from Pakistan and a team player with great communication. I have been exposed to a wide variety of modern technologies, have an understanding of full stack development, and consider myself to be very adaptable.<br>
 
-💬 I am a Rehman Coding creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br>
-
-![](https://komarev.com/ghpvc/?username=MuhRehman)
+![Profile views](https://komarev.com/ghpvc/?username=MuhRehman)
 
 [![YouTube Badge](https://img.shields.io/badge/-@Rehman%20Coding-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCfdtMAVyfgy7xqQKSYMowIQ)](https://www.youtube.com/channel/UCfdtMAVyfgy7xqQKSYMowIQ)
 [![Twitter Badge](https://img.shields.io/badge/-@Rehman_coding-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rehman_coding)](https://twitter.com/Rehman_coding)
-[![Instagram Badge](https://img.shields.io/badge/-@Rehman_Coding-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/rehman_coding)](https://instagram.com/rehman_coding) 
-[![Linkedin Badge](https://img.shields.io/badge/-AbdulRehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)](https://www.linkedin.com/in/abdul-rehman-✔-8611505b/)
+[![Instagram Badge](https://img.shields.io/badge/-@Rehman_Coding-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/rehman_coding)](https://instagram.com/rehman_coding)
+[![Linkedin Badge](https://img.shields.io/badge/-AbdulRehman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)](https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/)
 [![Gmail Badge](https://img.shields.io/badge/-abdulrehman1@aol.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulrehman1@aol.com)](mailto:abdulrehman1@aol.com)
 
-<div> 
+<div>
   <a href="https://wa.me/923035353488" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
@@ -30,19 +28,16 @@
 
 <h3>Technologies & Languages</h3>
 <ul>
- <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
-✅ HTML & CSS ( Tailwind , Bootstrap, AntD, Responsive, Flexbox, Animations)<br>
+ <img align="right" alt="Coding GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
+✅ HTML & CSS (Tailwind, Bootstrap, AntD, Responsive, Flexbox, Animations)<br>
 ✅ JavaScript ES6 (Vanilla, jQuery plugins, JSON)<br>
-✅ React,Next.js (Hooks, Redux toolkit, Zustand, JSX, Vite, Webpack, Babel)<br>
-✅ Node, JSON web token, Axios,<br>
-✅ MongoDB  <br>
-✅ Wordpress ( WordPress themes, Elementor , Divi Builder )  <br>
-
-
-
+✅ React, Next.js (Hooks, Redux Toolkit, Zustand, JSX, Vite, Webpack, Babel)<br>
+✅ Node, JSON Web Token, Axios<br>
+✅ MongoDB<br>
+✅ WordPress (WordPress themes, Elementor, Divi Builder)<br>
 </ul>
 
- <img align="left" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/react-animation-logo2.gif" width="180" height="100" />
+<img align="left" alt="React animation" src="https://github.com/MuhRehman/MuhRehman/blob/master/react-animation-logo2.gif" width="180" height="100" />
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -66,46 +61,43 @@
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
+<h2> Rehman Coding Portfolio Link: <a href="https://muhrehman.github.io/">Abdul Rehman Portfolio</a> </h2>
 
- <h2> Rehman Coding Portfolio Link : <a href="https://muhrehman.github.io/">Abdul Rehman Portfolio </a>   </h2>
+<h3>💻 Types of Projects I've Worked On (HTML, CSS, JavaScript, React.js, Next.js, AntD)</h3>
 
+Over the past 6+ years, I've developed a range of front-end and UI-focused projects, including:
 
-
-💻 Types of Projects I’ve Worked On (, HTML, CSS, JavaScript, React.js, Next.js, AntD )
-
-Over the past 6+ years, I’ve developed a range of front-end and UI-focused projects, including:
-
-<b>1. Interactive Dashboards and Admin Panels </b >
+<b>1. Interactive Dashboards and Admin Panels</b>
 
 Developed responsive, data-driven dashboards using React, Redux, and REST APIs.
 
 Implemented data visualization, real-time updates, and reusable components for analytics and reporting.
 
-<b>2. E-Commerce Application Development</b >
+<b>2. E-Commerce Application Development</b>
 
 Built product listing pages, shopping carts, and checkout workflows using React Hooks and React Router.
 
 Ensured mobile responsiveness and cross-browser compatibility using HTML5, CSS3, Flexbox, and CSS Grid.
 
-<b>3. Company Portfolios and Business Websites</b >
+<b>3. Company Portfolios and Business Websites</b>
 
 Created modern, SEO-friendly front-end interfaces using React, JavaScript, and Tailwind CSS.
 
 Converted Figma and Photoshop designs into pixel-perfect, high-performance web pages with smooth UI animations.
 
-<b>4. Reusable UI Component Libraries</b >
+<b>4. Reusable UI Component Libraries</b>
 
 Developed scalable and maintainable React component libraries using Storybook.
 
 Implemented UI frameworks including Bootstrap, Tailwind CSS, and Material UI to standardize design systems.
 
-<b>5. Responsive and Accessible UI Development</b >
+<b>5. Responsive and Accessible UI Development</b>
 
 Designed adaptive layouts using CSS Grid, Flexbox, and media queries.
 
 Improved website performance, accessibility, and load times across desktop and mobile devices.
 
-<b>6. WordPress Theme Development and Page Builders</b >
+<b>6. WordPress Theme Development and Page Builders</b>
 
 Developed custom WordPress themes and templates from scratch.
 
@@ -113,11 +105,11 @@ Built and customized websites using Elementor and Divi Builder.
 
 Optimized WordPress sites for performance, responsiveness, and SEO.
 
-<b> 7. 🚀 Featured Rehman Coding Projects - </b >
+<h3>🚀 Featured Rehman Coding Projects</h3>
 
-[DocHyve]  : Healthcare platform where patients book appointments with doctors and providers manage their profiles.
-  Built provider onboarding forms (NPI lookup with auto-fill), doctor search with instant filtering, and a careers/application flow.
-  `Next.js 14` `Tailwind CSS` `Ant Design` · [Live](https://dochyve.com/)
+<b><a href="https://dochyve.com/">DocHyve</a></b>: Healthcare platform where patients book appointments with doctors and providers manage their profiles.<br>
+Built provider onboarding forms (NPI lookup with auto-fill), doctor search with instant filtering, and a careers/application flow.<br>
+`Next.js 14` `Tailwind CSS` `Ant Design` · [Live](https://dochyve.com/)
 
 <h2>Connect with Me</h2>
 
@@ -126,7 +118,7 @@ Optimized WordPress sites for performance, responsiveness, and SEO.
     <img src="https://github.com/MuhRehman/MuhRehman/blob/master/linkedin-icon.png" width="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/paki_jan" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/Rehman_coding" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/MuhRehman/MuhRehman/blob/master/twitter-icon.png" width="32" alt="Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -135,16 +127,12 @@ Optimized WordPress sites for performance, responsiveness, and SEO.
   </a>
 </p>
 
-
 <br />
 
 <h2> Rehman Coding Resume</h2>
 <p>
-  View my updated resume here:  
+  View my updated resume here:
   <a href="https://muhrehman.github.io/resume" target="_blank">
     <strong>Click to Open Resume</strong>
   </a>
 </p>
-
-
-
