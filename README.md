@@ -1,16 +1,16 @@
 <h2> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving hand"> </h2>
 <h1> I'm <a href="https://muhrehman.github.io/">Rehman Coding</a> ... ! </h1>
-<h3>Abdul Rehman | Full Stack Developer (React, Next.js, Laraval ) | Pakistan</h3>
+<h3>Abdul Rehman | Frontend Developer (React, Next.js) | Rawalpindi, Pakistan</h3>
 
 <img align="right" alt="Divider" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <p align="center">
-  <img src="rehman_coding1.png" alt="Rehman Coding - Abdul Rehman, Full stack Developer from Pakistan" width="100%">
+  <img src="rehman_coding1.png" alt="Rehman Coding - Abdul Rehman, Frontend Developer from Pakistan" width="100%">
 </p>
 <img align="right" alt="Divider" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 
 <h1>always passionate for learning more about tech and life..💻🎓</h1>
 
-💬 I am Abdul Rehman, known as <b>Rehman Coding</b>, a creative frontend developer from Pakistan and a team player with great communication. I have been exposed to a wide variety of modern technologies, have an understanding of full stack development, and consider myself to be very adaptable.<br>
+💬 I am Abdul Rehman, known online as <b>Rehman Coding</b>, a creative frontend developer from Pakistan and a team player with great communication. You can also find Rehman Coding on YouTube, Instagram and X. I have been exposed to a wide variety of modern technologies, have an understanding of full stack development, and consider myself to be very adaptable.<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuhRehman)
 
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h3>Technologies & Languages</h3>
+<h3>Rehman Coding Tech Stack: Technologies & Languages</h3>
 <ul>
  <img align="right" alt="Coding GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/coding.gif" width="370" height="220" />
 ✅ HTML & CSS (Tailwind, Bootstrap, AntD, Responsive, Flexbox, Animations)<br>
@@ -63,9 +63,9 @@
 
 <h2> Rehman Coding Portfolio Link: <a href="https://muhrehman.github.io/">Abdul Rehman Portfolio</a> </h2>
 
-<h3>💻 Types of Projects I've Worked On (HTML, CSS, JavaScript, React.js, Next.js, AntD)</h3>
+<h3>💻 Rehman Coding Projects: Types of Work (HTML, CSS, JavaScript, React.js, Next.js, AntD)</h3>
 
-Over the past 6+ years, I've developed a range of front-end and UI-focused projects, including:
+Over the past 6+ years at Rehman Coding, I've developed a range of front-end and UI-focused projects, including:
 
 <b>1. Interactive Dashboards and Admin Panels</b>
 
@@ -111,7 +111,7 @@ Optimized WordPress sites for performance, responsiveness, and SEO.
 Built provider onboarding forms (NPI lookup with auto-fill), doctor search with instant filtering, and a careers/application flow.<br>
 `Next.js 14` `Tailwind CSS` `Ant Design` · [Live](https://dochyve.com/)
 
-<h2>Connect with Me</h2>
+<h2>Connect with Rehman Coding</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-rehman-%E2%9C%94-8611505b/" target="_blank" rel="noopener noreferrer">
