@@ -2,14 +2,14 @@
 
 
 <h2> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="40" height="40" >  </h2> 
-<h1> I'm <a href="https://muhrehman.github.io/">Abdul Rehman</a>  ... ! </h1>
+<h1> I'm <a href="https://muhrehman.github.io/"> Rehman Coding </a>  ... ! </h1>
 <img  style="center" src="https://github.com/MuhRehman/MuhRehman/blob/master/github_profile_color.png">
 <img align="right" alt="GIF" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <h1>always passionate for learning more about tech and life..💻🎓</h1> 
 
 
 
-💬 I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br>
+💬 I am a Rehman Coding creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable.<br>
 
 ![](https://komarev.com/ghpvc/?username=MuhRehman)
 
@@ -64,7 +64,7 @@
 </p>
 
 
- <h2> Portfolio Link : <a href="https://muhrehman.github.io/">Abdul Rehman Portfolio </a>   </h2>
+ <h2> Rehman Coding Portfolio Link : <a href="https://muhrehman.github.io/">Abdul Rehman Portfolio </a>   </h2>
 
 
 
@@ -110,7 +110,7 @@ Built and customized websites using Elementor and Divi Builder.
 
 Optimized WordPress sites for performance, responsiveness, and SEO.
 
-<b> 7. 🚀 Featured Projects - </b >
+<b> 7. 🚀 Featured Rehman Coding Projects - </b >
 
 [DocHyve]  : Healthcare platform where patients book appointments with doctors and providers manage their profiles.
   Built provider onboarding forms (NPI lookup with auto-fill), doctor search with instant filtering, and a careers/application flow.
@@ -135,7 +135,7 @@ Optimized WordPress sites for performance, responsiveness, and SEO.
 
 <br />
 
-<h2>Resume</h2>
+<h2> Rehman Coding Resume</h2>
 <p>
   View my updated resume here:  
   <a href="https://muhrehman.github.io/resume" target="_blank">
