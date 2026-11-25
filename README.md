@@ -1,6 +1,6 @@
 <h2> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving hand"> </h2>
 <h1> I'm <a href="https://muhrehman.github.io/">Rehman Coding</a> ... ! </h1>
-<h3>Abdul Rehman | Frontend Developer (React, Next.js, Laraval ) |, Pakistan</h3>
+<h3>Abdul Rehman | Frontend Developer (React, Next.js, Laraval ) | Pakistan</h3>
 
 <img align="right" alt="Divider" src="https://github.com/MuhRehman/MuhRehman/blob/master/horizontal-divider-gradient.gif" />
 <p align="center">
